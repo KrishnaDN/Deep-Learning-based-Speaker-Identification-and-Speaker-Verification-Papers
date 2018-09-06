@@ -2,11 +2,12 @@
 ## This repo will give all the papers related to Neural Network Hyperparameter Optimization(Optimal network configuration search) and short video explanation of each paper. In this repo you will find papers relevent to evolution strategies, baysian optimization, Genetic algorithms for configuration search, and recent work on neural architecture search(NAS). 
 
 ### 2018
-##### 1. Speaker recognition from raw waveform with SincNet.[\[Paper\]](https://arxiv.org/pdf/1808.00158.pdf)
-##### 2. Unified Hypersphere Embedding for Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1807.08312)
+##### 1. Speaker recognition from raw waveform with SincNet.[\[Paper\]](https://arxiv.org/pdf/1808.00158.pdf)--[\[Video\]]()
+##### 2. Unified Hypersphere Embedding for Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1807.08312)--[\[Video\]](https://www.youtube.com/watch?v=i9f0xKHj-UI)
+
 ##### 3. Two-stage iterative Procrustes match algorithm and its application for VQ-based speaker verification.[\[Paper\]](https://arxiv.org/pdf/1807.03587)
-##### 4. VoxCeleb2: Deep Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1806.05622)
-##### 5. Text-Independent Speaker Verification Based on Deep Neural Networks and Segmental Dynamic Time Warping.[\[Paper\]](https://arxiv.org/pdf/1806.09932.pdf)
+##### 4. VoxCeleb2: Deep Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1806.05622)--[\[Video\]](https://www.youtube.com/watch?v=05FIR8HNuz0&t=4s)
+##### 5. Text-Independent Speaker Verification Based on Deep Neural Networks and Segmental Dynamic Time Warping.[\[Paper\]](https://arxiv.org/pdf/1806.09932.pdf)--[\[Video\]](https://www.youtube.com/watch?v=LKRw5_qEKPo&t=932s)
 ##### 6. Weakly Supervised Training of Speaker Identification Models.[\[Paper\]](https://arxiv.org/pdf/1806.08621.pdf)
 ##### 7. Text-Independent Speaker Verification Using Long Short-Term Memory Networks.[\[Paper\]](https://arxiv.org/pdf/1805.00604.pdf)
 ##### 8. Text-Independent Speaker Verification Using 3D Convolutional Neural Networks.[\[Paper\]](https://arxiv.org/pdf/1705.09422.pdf)
