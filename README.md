@@ -1,5 +1,5 @@
 # Deep-Learning-based-Speaker-Identification-and-Speaker-Verification-Papers
-## This repo will give all the papers related to Neural Network Hyperparameter Optimization(Optimal network configuration search) and short video explanation of each paper. In this repo you will find papers relevent to evolution strategies, baysian optimization, Genetic algorithms for configuration search, and recent work on neural architecture search(NAS). 
+## This repo will give all the papers related to speaker recognition and speaker verification based on neural networks and short video explanation of each paper.
 
 ### 2018
 ##### 1. Speaker recognition from raw waveform with SincNet.[\[Paper\]](https://arxiv.org/pdf/1808.00158.pdf)--[\[Video\]]()
