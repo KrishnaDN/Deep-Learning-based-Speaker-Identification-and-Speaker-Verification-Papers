@@ -2,9 +2,8 @@
 ## This repo will give all the papers related to speaker recognition and speaker verification based on neural networks and short video explanation of each paper.
 
 ### 2018
-##### 1. Speaker recognition from raw waveform with SincNet.[\[Paper\]](https://arxiv.org/pdf/1808.00158.pdf)--[\[Video\]]()
+##### 1. Speaker recognition from raw waveform with SincNet.[\[Paper\]](https://arxiv.org/pdf/1808.00158.pdf)--[\[Video\]](https://www.youtube.com/watch?v=sendxu-rHlY&t=12s)
 ##### 2. Unified Hypersphere Embedding for Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1807.08312)--[\[Video\]](https://www.youtube.com/watch?v=i9f0xKHj-UI)
-
 ##### 3. Two-stage iterative Procrustes match algorithm and its application for VQ-based speaker verification.[\[Paper\]](https://arxiv.org/pdf/1807.03587)
 ##### 4. VoxCeleb2: Deep Speaker Recognition.[\[Paper\]](https://arxiv.org/pdf/1806.05622)--[\[Video\]](https://www.youtube.com/watch?v=05FIR8HNuz0&t=4s)
 ##### 5. Text-Independent Speaker Verification Based on Deep Neural Networks and Segmental Dynamic Time Warping.[\[Paper\]](https://arxiv.org/pdf/1806.09932.pdf)--[\[Video\]](https://www.youtube.com/watch?v=LKRw5_qEKPo&t=932s)
